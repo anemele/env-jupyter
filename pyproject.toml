@@ -6,3 +6,6 @@ dependencies = [
     "jupyter>=1.1.1",
     "jupyterlab>=4.3.5",
 ]
+
+[[tool.uv.index]]
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
