@@ -7,7 +7,7 @@ dependencies = [
     "jupyter-nbextensions-configurator>=0.6.4",
     "jupyterlab>=4.3.5",
     "jupyterlab-lsp>=5.1.0",
-    "python-lsp-server[all]>=1.12.2",
+    "python-lsp-server>=1.12.2",
 ]
 
 [[tool.uv.index]]
